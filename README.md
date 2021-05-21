@@ -1,0 +1,2 @@
+# stockPrediction
+for learning purposes
